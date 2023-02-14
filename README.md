@@ -14,6 +14,7 @@
 5. Stage changes
 6. Commit changes
 7. Create a pull request (PR)
+8. Hamoye.com
 
 
  
